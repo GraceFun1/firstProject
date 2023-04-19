@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(224, 224, 224);
+    color:rgb(20, 19, 19);
+}
+
+h1 {
+    font-size: 4rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+a { 
+    font-size: 1.5rem;
+    color:rgb(0, 113, 128);
+}
+
+p{
+    text-indent: 4;
+    font: Times;
+}
