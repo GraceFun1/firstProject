@@ -1,23 +1,31 @@
 *{
     background-color: rgb(224, 224, 224);
     color:rgb(20, 19, 19);
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h1 {
-    font-size: 4rem;
+    font-size: 3rem;
     text-align: center;
+    font-weight: 900;
+    font-family: 'Dancing Script', cursive;
+    color:#71bd85;
 }
 
 h2 {
-    font-size: 3rem;
+    font-size: 2rem;
+    color:#71bd85;
 }
 
 a { 
-    font-size: 1.5rem;
-    color:rgb(0, 113, 128);
+    font-size: 16px;
+    color:rgb(128, 73, 0);
+    font-weight: 500;
+    text-decoration: none;
 }
 
 p{
-    text-indent: 4;
-    font: Times;
+    text-indent: 50;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
 }
